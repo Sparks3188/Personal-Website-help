@@ -1,0 +1,173 @@
+h1 {
+  font-family: Arial;
+  color: white;
+  font-size: 50px;
+}
+
+li {
+  color: white;
+  list-style-type: none;
+  text-decoration: none;
+  font-size: 17.5px;
+}
+
+/*Header*/
+
+.header {
+  margin-top: -8px;
+  margin-left: -8px;
+  background-color: #262626;
+  width: 100%;
+  position: fixed;
+  text-align: center;
+  height: 80px;
+}
+
+.header h1 {
+  float: left;
+  margin-left: 10px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.nav-btn{
+  margin-left: 2.5px;
+  display: inline-block;
+  padding: 5px 25px;
+  float: right;
+  border: 1px solid #ff003d;
+  margin-right: 30px;
+  margin-top: 23px;
+}
+
+.nav-btn:hover{
+  background-color: #ff003d;
+}
+
+/*Projects*/
+
+.filler {
+  height: 72px;
+}
+
+.pro-1 {
+  /*Postioning*/
+  width: 102.25%;
+  height: 400px;
+  margin-left: -8px;
+  /*Background*/
+  background-position: center center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-image: url("jgoerugd_y4-john-towner.jpg");
+}
+
+.pro-1 h2 {
+  margin-top: 0px;
+  color: white;
+  text-align: center;
+  padding-top: 15%;
+  font-size: 40px;
+  background-color: rgba(0,0,0,.4);
+  padding: 5px 30px;
+}
+
+.pro-2 {
+  /*Postioning*/
+  width: 102.25%;
+  height: 400px;
+  margin-left: -8px;
+  /*Background*/
+  background-position: center center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-image: url("zr-xfz3av44-samuel-zeller.jpg");
+}
+
+.pro-2 h2{
+  margin-top: 0px;
+  color: white;
+  text-align: center;
+  padding-top: 15%;
+  font-size: 40px;
+  background-color: rgba(0,0,0,.4);
+  padding: 5px 30px;
+}
+
+.pro-3 {
+  /*Postioning*/
+  width: 102.25%;
+  height: 400px;
+  margin-left: -8px;
+  /*Background*/
+  background-position: 50% 70%;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-image: url("d7cnjoley4y-blair-fraser.jpg");
+}
+
+.pro-3 h2{
+  margin-top: 0px;
+  color: white;
+  text-align: center;
+  padding-top: 15%;
+  font-size: 40px;
+  background-color: rgba(0,0,0,.4);
+  padding: 5px 30px;
+}
+
+.pro-4 {
+  /*Postioning*/
+  width: 102.25%;
+  height: 400px;
+  margin-left: -8px;
+  /*Background*/
+  background-position: center center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-image: url("aaz4fsrgzme-nathan-anderson.jpg");
+}
+
+.pro-4 h2{
+  margin-top: 0px;
+  color: white;
+  text-align: center;
+  padding-top: 15%;
+  font-size: 40px;
+  background-color: rgba(0,0,0,.4);
+  padding: 5px 30px;
+}
+
+/*footer*/
+
+.f-btn {
+  margin-left: 10px;
+  display: inline-block;
+  padding: 5px 25px;
+  border: 1px solid #ff003d;
+}
+
+.f-btn:hover{
+  background-color: #ff003d;
+}
+
+.footer {
+  margin-left: -8px;
+  margin-bottom: -8px;
+  clear: both;
+  background-color: #262626;
+  width: 102.25%;
+  height: 100px;
+}
+
+.footer h3 {
+  margin: 0 auto;
+  color: white;
+  font-size: 30px;
+  text-align: center;
+}
+
+.btm-nav {
+  width: 391px;
+  margin:auto;
+}
